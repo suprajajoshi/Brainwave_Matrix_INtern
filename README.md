@@ -26,4 +26,4 @@ Provide actionable business insights using visual analytics
  **Tools Used**
 
 Excel – Data cleaning, preprocessing, and formatting
-Power BI – Data modeling, DAX measures, and dashboard creation
+Power BI – Data modeling, DAX measures, and dashboard creation.
